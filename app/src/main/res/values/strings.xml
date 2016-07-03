@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlbumDer</string>
+    <string name="server_path">http://api.deezer.com/2.0/user/2529/albums</string>
+    <string name="version_number">version 1</string>
+    <string name="clear_cache">Le cache a bien été effacé</string>
+    <string name="empty_screen">Une erreur a été détecté lors de la récupération des données </string>
+</resources>
